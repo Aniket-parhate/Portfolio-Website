@@ -7,7 +7,7 @@ import ReactImg from "../assets/react.png";
 import Node from "../assets/node.png";
 import FireBase from "../assets/firebase.png";
 import GitHub from "../assets/github.png";
-import Redux from "../assets/redux.jpg";
+import Redux from "../assets/redux.png";
 
 const Skills = () => {
   return (
