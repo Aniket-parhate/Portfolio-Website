@@ -1,6 +1,6 @@
 import WorkIm from "../assets/projects/workImg.jpeg";
 import RealEst from "../assets/projects/realestate.jpg";
-import weather from "../assets/projects/weather.png";
+import weather from "../assets/projects/weather.PNG";
 
 export const data = [
   {
