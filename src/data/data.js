@@ -1,13 +1,14 @@
 import WorkIm from "../assets/projects/workImg.jpeg";
 import RealEst from "../assets/projects/realestate.jpg";
+import weather from "../assets/projects/weather.png";
 
 export const data = [
   {
     id: 1,
-    name: "React JS Application",
-    image: WorkIm,
-    github: "",
-    live: "",
+    name: "Weather Web App",
+    image: weather,
+    github: "https://github.com/Aniket-parhate/Weather-Web-App",
+    live: "https://weather-web-app-ten-eta.vercel.app/",
   },
   {
     id: 2,
